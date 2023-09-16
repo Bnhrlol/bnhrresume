@@ -12,7 +12,7 @@ body {
   background: #585c68;
   font-size: 14px;
   line-height: 22px;
-  color: red;
+  color: black;
 }
 
 .bold {
@@ -35,7 +35,7 @@ body {
 
 .resume .resume_left {
   width: 280px;
-  background: #800000;
+  background: #2083f5;
 }
 
 .resume .resume_left .resume_profile {
