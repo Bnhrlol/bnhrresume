@@ -84,44 +84,6 @@ body {
   margin-bottom: 0;
 }
 
-
-
-
-
-
-
-.link a {
-	text-decoration: none;
-	color: inherit;
-}
-
-.link span::after {
-	position: absolute;
-	content: '';
-	left: 50%;
-	bottom: -3px;
-	width: 0;
-	height: 2px;
-	transition: width 0.3s;
-	/*transition-timing-function: cubic-bezier(.64,.51,.16,.86);*/
-	transition-timing-function: cubic-bezier(.92,.57,.33,1.02);
-	transform: translate(-50%, 0);
-}
-
-.link span:hover {
-	color: var(grey);
-}
-.link span:hover::after {
-	width: 100%;
-}
-
-
-
-
-
-
-
-
 .resume .resume_left ul li .icon {
   width: 35px;
   height: 35px;
