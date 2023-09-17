@@ -80,6 +80,14 @@ body {
   align-items: center;
 }
 
+/////
+
+.resume .resume_left ul li .data {
+    color: #1ed4f7;
+}
+
+////
+
 .resume .resume_left ul li:last-child {
   margin-bottom: 0;
 }
