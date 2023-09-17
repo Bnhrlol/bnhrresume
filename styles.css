@@ -27,14 +27,14 @@ body {
 }
 
 .resume {
-  width: 800px;
+  width: 1000px;
   height: auto;
   display: flex;
   margin: 50px auto;
 }
 
 .resume .resume_left {
-  width: 280px;
+  width: 650px;
   background: #191970;
 }
 
@@ -151,7 +151,7 @@ body {
 }
 
 .resume .resume_right {
-  width: 520px;
+  width: 600px;
   background: #fff;
   padding: 25px;
 }
