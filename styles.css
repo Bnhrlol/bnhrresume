@@ -110,7 +110,7 @@ body {
 .resume .resume_left .resume_skills ul li {
   display: flex;
   margin-bottom: 10px;
-  color: mediumturquoise;
+  color: #08d4fc;
   justify-content: space-between;
   align-items: center;
 }
