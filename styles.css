@@ -227,9 +227,9 @@ body {
 .resume .resume_right .resume_hobby ul li:before {
   content: "";
   position: absolute;
-  top: 40px;
-  right: -52px;
-  width: 50px;
+  top: 35px;
+  right: -73px;
+  width: 74px;
   height: 2px;
   background: #2083f5;
 }
