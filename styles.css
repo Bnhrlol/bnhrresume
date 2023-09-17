@@ -61,7 +61,7 @@ body {
 }
 
 .resume .resume_left .regular {
-  color: #2083f5;
+  color: aliceblue;
 }
 
 .resume .resume_item {
@@ -110,7 +110,7 @@ body {
 .resume .resume_left .resume_skills ul li {
   display: flex;
   margin-bottom: 10px;
-  color: #b1eaff;
+  color: mediumturquoise;
   justify-content: space-between;
   align-items: center;
 }
