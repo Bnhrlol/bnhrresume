@@ -61,12 +61,12 @@ body {
 }
 
 .resume .resume_left .regular {
-  color: #fcfcfc;
+  color: #2083f5;
 }
 
 .resume .resume_item {
   padding: 25px 0;
-  border-bottom: 2px solid white;
+  border-bottom: 2px solid #2083f5;
 }
 
 .resume .resume_left .resume_item:last-child,
