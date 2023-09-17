@@ -144,6 +144,11 @@ body {
   margin-bottom: 3px;
 }
 
+.resume .resume_left .resume_social ul li .icon:hover {
+  background: #2083f5;
+  color: #fff;
+}
+
 .resume .resume_right {
   width: 520px;
   background: #fff;
